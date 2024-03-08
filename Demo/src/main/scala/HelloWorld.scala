@@ -21,7 +21,7 @@ def fib(n: Int): Int =
 
 @main
 def testSubstrings =
-  val str = "aabcd"
+  val str = "aabacd"
   val result = substrings(str)
   println(result)  
 
